@@ -1747,6 +1747,1274 @@ provinces = {
       },
     },
   },
+  "กาฬสินธุ์" => {
+    "เมืองกาฬสินธุ์" => {
+      "กาฬสินธุ์" => {
+        zipcode: ["46000"],
+        latitude: "16.437",
+        longitude: "103.522",
+      },
+      "เหนือ" => {
+        zipcode: ["46000"],
+        latitude: "16.442",
+        longitude: "103.574",
+      },
+      "หลุบ" => {
+        zipcode: ["46000"],
+        latitude: "16.393",
+        longitude: "103.512",
+      },
+      "ไผ่" => {
+        zipcode: ["46000"],
+        latitude: "16.522",
+        longitude: "103.575",
+      },
+      "ลำปาว" => {
+        zipcode: ["46000"],
+        latitude: "16.591",
+        longitude: "103.496",
+      },
+      "ลำพาน" => {
+        zipcode: ["46000"],
+        latitude: "16.457",
+        longitude: "103.484",
+      },
+      "เชียงเครือ" => {
+        zipcode: ["46000"],
+        latitude: "16.434",
+        longitude: "103.612",
+      },
+      "บึงวิชัย" => {
+        zipcode: ["46000"],
+        latitude: "16.5",
+        longitude: "103.499",
+      },
+      "ห้วยโพธิ์" => {
+        zipcode: ["46000"],
+        latitude: "16.392",
+        longitude: "103.578",
+      },
+      "ภูปอ" => {
+        zipcode: ["46000"],
+        latitude: "16.59",
+        longitude: "103.615",
+      },
+      "ภูดิน" => {
+        zipcode: ["46000"],
+        latitude: "16.636",
+        longitude: "103.528",
+      },
+      "หนองกุง" => {
+        zipcode: ["46000"],
+        latitude: "16.534",
+        longitude: "103.526",
+      },
+      "กลางหมื่น" => {
+        zipcode: ["46000"],
+        latitude: "16.518",
+        longitude: "103.641",
+      },
+      "ขมิ้น" => {
+        zipcode: ["46000"],
+        latitude: "16.607",
+        longitude: "103.569",
+      },
+      "โพนทอง" => {
+        zipcode: ["46000"],
+        latitude: "16.478",
+        longitude: "103.548",
+      },
+      "นาจารย์" => {
+        zipcode: ["46000"],
+        latitude: "16.561",
+        longitude: "103.643",
+      },
+      "ลำคลอง" => {
+        zipcode: ["46000"],
+        latitude: "16.587",
+        longitude: "103.45",
+      },
+    },
+    "กมลาไสย" => {
+      "กมลาไสย" => {
+        zipcode: ["46130"],
+        latitude: "16.31",
+        longitude: "103.551",
+      },
+      "หลักเมือง" => {
+        zipcode: ["46130"],
+        latitude: "16.332",
+        longitude: "103.595",
+      },
+      "โพนงาม" => {
+        zipcode: ["46130"],
+        latitude: "16.316",
+        longitude: "103.658",
+      },
+      "ดงลิง" => {
+        zipcode: ["46130"],
+        latitude: "16.25",
+        longitude: "103.661",
+      },
+      "ธัญญา" => {
+        zipcode: ["46130"],
+        latitude: "16.259",
+        longitude: "103.567",
+      },
+      "หนองแปน" => {
+        zipcode: ["46130"],
+        latitude: "16.289",
+        longitude: "103.511",
+      },
+      "เจ้าท่า" => {
+        zipcode: ["46130"],
+        latitude: "16.225",
+        longitude: "103.591",
+      },
+      "โคกสมบูรณ์" => {
+        zipcode: ["46130"],
+        latitude: "16.36",
+        longitude: "103.667",
+      },
+    },
+    "กุฉินารายณ์" => {
+      "บัวขาว" => {
+        zipcode: ["46110"],
+        latitude: "16.521",
+        longitude: "104.055",
+      },
+      "แจนแลน" => {
+        zipcode: ["46110"],
+        latitude: "16.554",
+        longitude: "103.998",
+      },
+      "เหล่าใหญ่" => {
+        zipcode: ["46110"],
+        latitude: "16.622",
+        longitude: "103.993",
+      },
+      "จุมจัง" => {
+        zipcode: ["46110"],
+        latitude: "16.458",
+        longitude: "104.107",
+      },
+      "เหล่าไฮงาม" => {
+        zipcode: ["46110"],
+        latitude: "16.471",
+        longitude: "104.171",
+      },
+      "กุดหว้า" => {
+        zipcode: ["46110"],
+        latitude: "16.537",
+        longitude: "104.167",
+      },
+      "สามขา" => {
+        zipcode: ["46110"],
+        latitude: "16.464",
+        longitude: "103.975",
+      },
+      "นาขาม" => {
+        zipcode: ["46110"],
+        latitude: "16.508",
+        longitude: "103.905",
+      },
+      "หนองห้าง" => {
+        zipcode: ["46110"],
+        latitude: "16.572",
+        longitude: "104.124",
+      },
+      "นาโก" => {
+        zipcode: ["46110"],
+        latitude: "16.606",
+        longitude: "104.055",
+      },
+      "สมสะอาด" => {
+        zipcode: ["46110"],
+        latitude: "16.451",
+        longitude: "104.048",
+      },
+      "กุดค้าว" => {
+        zipcode: ["46110"],
+        latitude: "16.506",
+        longitude: "104.001",
+      },
+    },
+    "เขาวง" => {
+      "คุ้มเก่า" => {
+        zipcode: ["46160"],
+        latitude: "16.679",
+        longitude: "104.132",
+      },
+      "สงเปลือย" => {
+        zipcode: ["46160"],
+        latitude: "16.626",
+        longitude: "104.119",
+      },
+      "หนองผือ" => {
+        zipcode: ["46160"],
+        latitude: "16.751",
+        longitude: "104.094",
+      },
+      "กุดสิมคุ้มใหม่" => {
+        zipcode: ["46160"],
+        latitude: "16.676",
+        longitude: "104.049",
+      },
+      "สระพังทอง" => {
+        zipcode: ["46160"],
+        latitude: "16.719",
+        longitude: "104.055",
+      },
+      "กุดปลาค้าว" => {
+        zipcode: ["46160"],
+        latitude: "16.715",
+        longitude: "104.115",
+      },
+    },
+    "คำม่วง" => {
+      "ทุ่งคลอง" => {
+        zipcode: ["46180"],
+        latitude: "16.938",
+        longitude: "103.679",
+      },
+      "โพน" => {
+        zipcode: ["46180"],
+        latitude: "16.841",
+        longitude: "103.637",
+      },
+      "ดินจี่" => {
+        zipcode: ["46180"],
+        latitude: "16.962",
+        longitude: "103.719",
+      },
+      "นาบอน" => {
+        zipcode: ["46180"],
+        latitude: "16.881",
+        longitude: "103.673",
+      },
+      "นาทัน" => {
+        zipcode: ["46180"],
+        latitude: "17.024",
+        longitude: "103.613",
+      },
+      "เนินยาง" => {
+        zipcode: ["46180"],
+        latitude: "16.803",
+        longitude: "103.655",
+      },
+    },
+    "ฆ้องชัย" => {
+      "ฆ้องชัยพัฒนา" => {
+        zipcode: ["46130"],
+        latitude: "16.257",
+        longitude: "103.463",
+      },
+      "เหล่ากลาง" => {
+        zipcode: ["46130"],
+        latitude: "16.245",
+        longitude: "103.515",
+      },
+      "โคกสะอาด" => {
+        zipcode: ["46130"],
+        latitude: "16.215",
+        longitude: "103.468",
+      },
+      "โนนศิลาเลิง" => {
+        zipcode: ["46130"],
+        latitude: "16.285",
+        longitude: "103.435",
+      },
+      "ลำชี" => {
+        zipcode: ["46130"],
+        latitude: "16.321",
+        longitude: "103.493",
+      },
+    },
+    "ดอนจาน" => {
+      "ดอนจาน" => {
+        zipcode: ["46000"],
+        latitude: "16.425",
+        longitude: "103.696",
+      },
+      "สะอาดไชยศรี" => {
+        zipcode: ["46000"],
+        latitude: "16.471",
+        longitude: "103.773",
+      },
+      "ดงพยุง" => {
+        zipcode: ["46000"],
+        latitude: "16.531",
+        longitude: "103.708",
+      },
+      "ม่วงนา" => {
+        zipcode: ["46000"],
+        latitude: "16.475",
+        longitude: "103.639",
+      },
+      "นาจำปา" => {
+        zipcode: ["46000"],
+        latitude: "16.48",
+        longitude: "103.696",
+      },
+    },
+    "ท่าคันโท" => {
+      "ท่าคันโท" => {
+        zipcode: ["46190"],
+        latitude: "16.869",
+        longitude: "103.237",
+      },
+      "กุงเก่า" => {
+        zipcode: ["46190"],
+        latitude: "16.87",
+        longitude: "103.188",
+      },
+      "ยางอู้ม" => {
+        zipcode: ["46190"],
+        latitude: "16.902",
+        longitude: "103.286",
+      },
+      "กุดจิก" => {
+        zipcode: ["46190"],
+        latitude: "16.843",
+        longitude: "103.115",
+      },
+      "นาตาล" => {
+        zipcode: ["46190"],
+        latitude: "16.847",
+        longitude: "103.28",
+      },
+      "ดงสมบูรณ์" => {
+        zipcode: ["46190"],
+        latitude: "16.869",
+        longitude: "103.366",
+      },
+    },
+    "นาคู" => {
+      "นาคู" => {
+        zipcode: ["46160"],
+        latitude: "16.808",
+        longitude: "104.07",
+      },
+      "สายนาวัง" => {
+        zipcode: ["46160"],
+        latitude: "16.761",
+        longitude: "104.063",
+      },
+      "โนนนาจาน" => {
+        zipcode: ["46160"],
+        latitude: "16.733",
+        longitude: "103.989",
+      },
+      "บ่อแก้ว" => {
+        zipcode: ["46160"],
+        latitude: "16.791",
+        longitude: "103.994",
+      },
+      "ภูแล่นช้าง" => {
+        zipcode: ["46160"],
+        latitude: "16.688",
+        longitude: "103.97",
+      },
+    },
+    "นามน" => {
+      "นามน" => {
+        zipcode: ["46230"],
+        latitude: "16.561",
+        longitude: "103.776",
+      },
+      "ยอดแกง" => {
+        zipcode: ["46230"],
+        latitude: "16.622",
+        longitude: "103.735",
+      },
+      "สงเปลือย" => {
+        zipcode: ["46230"],
+        latitude: "16.624",
+        longitude: "103.793",
+      },
+      "หลักเหลี่ยม" => {
+        zipcode: ["46230"],
+        latitude: "16.548",
+        longitude: "103.82",
+      },
+      "หนองบัว" => {
+        zipcode: ["46230"],
+        latitude: "16.537",
+        longitude: "103.855",
+      },
+    },
+    "ยางตลาด" => {
+      "ยางตลาด" => {
+        zipcode: ["46120"],
+        latitude: "16.393",
+        longitude: "103.352",
+      },
+      "หัวงัว" => {
+        zipcode: ["46120"],
+        latitude: "16.337",
+        longitude: "103.446",
+      },
+      "อุ่มเม่า" => {
+        zipcode: ["46120"],
+        latitude: "16.398",
+        longitude: "103.464",
+      },
+      "บัวบาน" => {
+        zipcode: ["46120"],
+        latitude: "16.479",
+        longitude: "103.416",
+      },
+      "เว่อ" => {
+        zipcode: ["46120"],
+        latitude: "16.543",
+        longitude: "103.351",
+      },
+      "อิตื้อ" => {
+        zipcode: ["46120"],
+        latitude: "16.464",
+        longitude: "103.262",
+      },
+      "หัวนาคำ" => {
+        zipcode: ["46120"],
+        latitude: "16.392",
+        longitude: "103.227",
+      },
+      "หนองอิเฒ่า" => {
+        zipcode: ["46120"],
+        latitude: "16.339",
+        longitude: "103.371",
+      },
+      "ดอนสมบูรณ์" => {
+        zipcode: ["46120"],
+        latitude: "16.437",
+        longitude: "103.406",
+      },
+      "นาเชือก" => {
+        zipcode: ["46120"],
+        latitude: "16.557",
+        longitude: "103.415",
+      },
+      "คลองขาม" => {
+        zipcode: ["46120"],
+        latitude: "16.456",
+        longitude: "103.338",
+      },
+      "เขาพระนอน" => {
+        zipcode: ["46120"],
+        latitude: "16.529",
+        longitude: "103.38",
+      },
+      "นาดี" => {
+        zipcode: ["46120"],
+        latitude: "16.361",
+        longitude: "103.474",
+      },
+      "โนนสูง" => {
+        zipcode: ["46120"],
+        latitude: "16.464",
+        longitude: "103.207",
+      },
+      "หนองตอกแป้น" => {
+        zipcode: ["46120"],
+        latitude: "16.319",
+        longitude: "103.406",
+      },
+    },
+    "ร่องคำ" => {
+      "ร่องคำ" => {
+        zipcode: ["46210"],
+        latitude: "16.266",
+        longitude: "103.737",
+      },
+      "สามัคคี" => {
+        zipcode: ["46210"],
+        latitude: "16.318",
+        longitude: "103.713",
+      },
+      "เหล่าอ้อย" => {
+        zipcode: ["46210"],
+        latitude: "16.254",
+        longitude: "103.708",
+      },
+    },
+    "สมเด็จ" => {
+      "สมเด็จ" => {
+        zipcode: ["46150"],
+        latitude: "16.705",
+        longitude: "103.754",
+      },
+      "หนองแวง" => {
+        zipcode: ["46150"],
+        latitude: "16.66",
+        longitude: "103.69",
+      },
+      "แซงบาดาล" => {
+        zipcode: ["46150"],
+        latitude: "16.819",
+        longitude: "103.7",
+      },
+      "มหาไชย" => {
+        zipcode: ["46150"],
+        latitude: "16.823",
+        longitude: "103.783",
+      },
+      "หมูม่น" => {
+        zipcode: ["46150"],
+        latitude: "16.759",
+        longitude: "103.679",
+      },
+      "ผาเสวย" => {
+        zipcode: ["46150"],
+        latitude: "16.797",
+        longitude: "103.863",
+      },
+      "ศรีสมเด็จ" => {
+        zipcode: ["46150"],
+        latitude: "16.738",
+        longitude: "103.706",
+      },
+      "ลำห้วยหลัว" => {
+        zipcode: ["46150"],
+        latitude: "16.732",
+        longitude: "103.815",
+      },
+    },
+    "สหัสขันธ์" => {
+      "ภูสิงห์" => {
+        zipcode: ["46140"],
+        latitude: "16.739055",
+        longitude: "103.504175",
+      },
+      "สหัสขันธ์" => {
+        zipcode: ["46140"],
+        latitude: "16.728",
+        longitude: "103.55",
+      },
+      "นามะเขือ" => {
+        zipcode: ["46140"],
+        latitude: "16.678",
+        longitude: "103.638",
+      },
+      "โนนศิลา" => {
+        zipcode: ["46140"],
+        latitude: "16.8",
+        longitude: "103.605",
+      },
+      "นิคม" => {
+        zipcode: ["46140"],
+        latitude: "16.677",
+        longitude: "103.492",
+      },
+      "โนนแหลมทอง" => {
+        zipcode: ["46140"],
+        latitude: "16.751",
+        longitude: "103.619",
+      },
+      "โนนบุรี" => {
+        zipcode: ["46140"],
+        latitude: "16.706",
+        longitude: "103.491",
+      },
+      "โนนน้ำเกลี้ยง" => {
+        zipcode: ["46140"],
+        latitude: "16.683",
+        longitude: "103.538",
+      },
+    },
+    "สามชัย" => {
+      "สำราญ" => {
+        zipcode: ["46180"],
+        latitude: "16.954",
+        longitude: "103.522",
+      },
+      "สำราญใต้" => {
+        zipcode: ["46180"],
+        latitude: "16.814",
+        longitude: "103.48",
+      },
+      "คำสร้างเที่ยง" => {
+        zipcode: ["46180"],
+        latitude: "16.814",
+        longitude: "103.546",
+      },
+      "หนองช้าง" => {
+        zipcode: ["46180"],
+        latitude: "16.913",
+        longitude: "103.571",
+      },
+    },
+    "หนองกุงศรี" => {
+      "หนองกุงศรี" => {
+        zipcode: ["46220"],
+        latitude: "16.649",
+        longitude: "103.274",
+      },
+      "หนองบัว" => {
+        zipcode: ["46220"],
+        latitude: "16.728",
+        longitude: "103.376",
+      },
+      "โคกเครือ" => {
+        zipcode: ["46220"],
+        latitude: "16.781",
+        longitude: "103.238",
+      },
+      "หนองสรวง" => {
+        zipcode: ["46220"],
+        latitude: "16.77",
+        longitude: "103.422",
+      },
+      "เสาเล้า" => {
+        zipcode: ["46220"],
+        latitude: "16.651",
+        longitude: "103.392",
+      },
+      "หนองใหญ่" => {
+        zipcode: ["46220"],
+        latitude: "16.701",
+        longitude: "103.223",
+      },
+      "ดงมูล" => {
+        zipcode: ["46220"],
+        latitude: "16.779",
+        longitude: "103.313",
+      },
+      "ลำหนองแสน" => {
+        zipcode: ["46220"],
+        latitude: "16.678",
+        longitude: "103.307",
+      },
+      "หนองหิน" => {
+        zipcode: ["46220"],
+        latitude: "16.823",
+        longitude: "103.397",
+      },
+    },
+    "ห้วยผึ้ง" => {
+      "คำบง" => {
+        zipcode: ["46240"],
+        latitude: "16.758",
+        longitude: "103.912",
+      },
+      "ไค้นุ่น" => {
+        zipcode: ["46240"],
+        latitude: "16.612",
+        longitude: "103.933",
+      },
+      "นิคมห้วยผึ้ง" => {
+        zipcode: ["46240"],
+        latitude: "16.675",
+        longitude: "103.909",
+      },
+      "หนองอีบุตร" => {
+        zipcode: ["46240"],
+        latitude: "16.597",
+        longitude: "103.873",
+      },
+    },
+    "ห้วยเม็ก" => {
+      "ห้วยเม็ก" => {
+        zipcode: ["46170"],
+        latitude: "16.596",
+        longitude: "103.216",
+      },
+      "คำใหญ่" => {
+        zipcode: ["46170"],
+        latitude: "16.664",
+        longitude: "103.177",
+      },
+      "กุดโดน" => {
+        zipcode: ["46170"],
+        latitude: "16.544",
+        longitude: "103.268",
+      },
+      "บึงนาเรียง" => {
+        zipcode: ["46170"],
+        latitude: "16.6",
+        longitude: "103.288",
+      },
+      "หัวหิน" => {
+        zipcode: ["46170"],
+        latitude: "16.602",
+        longitude: "103.358",
+      },
+      "พิมูล" => {
+        zipcode: ["46170"],
+        latitude: "16.703",
+        longitude: "103.181",
+      },
+      "คำเหมือดแก้ว" => {
+        zipcode: ["46170"],
+        latitude: "16.523",
+        longitude: "103.199",
+      },
+      "โนนสะอาด" => {
+        zipcode: ["46170"],
+        latitude: "16.538",
+        longitude: "103.314",
+      },
+      "ทรายทอง" => {
+        zipcode: ["46170"],
+        latitude: "16.74",
+        longitude: "103.175",
+      },
+    },
+  },
+  "กำแพงเพชร" => {
+    "เมืองกำแพงเพชร" => {
+      "ในเมือง" => {
+        zipcode: ["62000"],
+        latitude: "16.473",
+        longitude: "99.528",
+      },
+      "ไตรตรึงษ์" => {
+        zipcode: ["62160"],
+        latitude: "16.328",
+        longitude: "99.553",
+      },
+      "อ่างทอง" => {
+        zipcode: ["62000"],
+        latitude: "16.267",
+        longitude: "99.465",
+      },
+      "นาบ่อคำ" => {
+        zipcode: ["62000"],
+        latitude: "16.458",
+        longitude: "99.321",
+      },
+      "นครชุม" => {
+        zipcode: ["62000"],
+        latitude: "16.49",
+        longitude: "99.457",
+      },
+      "ทรงธรรม" => {
+        zipcode: ["62000"],
+        latitude: "16.53",
+        longitude: "99.454",
+      },
+      "ลานดอกไม้" => {
+        zipcode: ["62000"],
+        latitude: "16.634",
+        longitude: "99.44",
+      },
+      "หนองปลิง" => {
+        zipcode: ["62000"],
+        latitude: "16.566",
+        longitude: "99.521",
+      },
+      "คณฑี" => {
+        zipcode: ["62000"],
+        latitude: "16.367",
+        longitude: "99.695",
+      },
+      "นิคมทุ่งโพธิ์ทะเล" => {
+        zipcode: ["62000"],
+        latitude: "16.485",
+        longitude: "99.703",
+      },
+      "เทพนคร" => {
+        zipcode: ["62000"],
+        latitude: "16.427",
+        longitude: "99.611",
+      },
+      "วังทอง" => {
+        zipcode: ["62000"],
+        latitude: "16.27",
+        longitude: "99.376",
+      },
+      "ท่าขุนราม" => {
+        zipcode: ["62000"],
+        latitude: "16.451",
+        longitude: "99.452",
+      },
+      "คลองแม่ลาย" => {
+        zipcode: ["62000"],
+        latitude: "16.375",
+        longitude: "99.41",
+      },
+      "ธำมรงค์" => {
+        zipcode: ["62160"],
+        latitude: "16.33",
+        longitude: "99.628",
+      },
+      "สระแก้ว" => {
+        zipcode: ["62000"],
+        latitude: "16.521",
+        longitude: "99.59",
+      },
+    },
+    "โกสัมพีนคร" => {
+      "โกสัมพี" => {
+        zipcode: ["62000"],
+        latitude: "16.501",
+        longitude: "99.215",
+      },
+      "เพชรชมภู" => {
+        zipcode: ["62000"],
+        latitude: "16.58",
+        longitude: "99.361",
+      },
+      "ลานดอกไม้ตก" => {
+        zipcode: ["62000"],
+        latitude: "16.581",
+        longitude: "99.429",
+      },
+    },
+    "ขาณุวรลักษบุรี" => {
+      "ยางสูง" => {
+        zipcode: ["62130"],
+        latitude: "16.124",
+        longitude: "99.857",
+      },
+      "ป่าพุทรา" => {
+        zipcode: ["62130"],
+        latitude: "16.094",
+        longitude: "99.918",
+      },
+      "แสนตอ" => {
+        zipcode: ["62130"],
+        latitude: "16.051",
+        longitude: "99.831",
+      },
+      "สลกบาตร" => {
+        zipcode: ["62140"],
+        latitude: "16",
+        longitude: "99.801",
+      },
+      "บ่อถ้ำ" => {
+        zipcode: ["62140"],
+        latitude: "15.912",
+        longitude: "99.738",
+      },
+      "ดอนแตง" => {
+        zipcode: ["62140"],
+        latitude: "16.053",
+        longitude: "99.752",
+      },
+      "วังชะพลู" => {
+        zipcode: ["62140"],
+        latitude: "16.011",
+        longitude: "99.639",
+      },
+      "โค้งไผ่" => {
+        zipcode: ["62140"],
+        latitude: "16.108",
+        longitude: "99.657",
+      },
+      "ปางมะค่า" => {
+        zipcode: ["62140"],
+        latitude: "15.967",
+        longitude: "99.461",
+      },
+      "วังหามแห" => {
+        zipcode: ["62140"],
+        latitude: "16.066",
+        longitude: "99.603",
+      },
+      "เกาะตาล" => {
+        zipcode: ["62130"],
+        latitude: "16.103",
+        longitude: "99.788",
+      },
+    },
+    "คลองขลุง" => {
+      "คลองขลุง" => {
+        zipcode: ["62120"],
+        latitude: "16.176",
+        longitude: "99.698",
+      },
+      "ท่ามะเขือ" => {
+        zipcode: ["62120"],
+        latitude: "16.261",
+        longitude: "99.752",
+      },
+      "ท่าพุทรา" => {
+        zipcode: ["62120"],
+        latitude: "16.269",
+        longitude: "99.679",
+      },
+      "แม่ลาด" => {
+        zipcode: ["62120"],
+        latitude: "16.153",
+        longitude: "99.785",
+      },
+      "วังยาง" => {
+        zipcode: ["62120"],
+        latitude: "16.204",
+        longitude: "99.774",
+      },
+      "วังแขม" => {
+        zipcode: ["62120"],
+        latitude: "16.208",
+        longitude: "99.837",
+      },
+      "หัวถนน" => {
+        zipcode: ["62120"],
+        latitude: "16.267",
+        longitude: "99.631",
+      },
+      "วังไทร" => {
+        zipcode: ["62120"],
+        latitude: "16.2",
+        longitude: "99.631",
+      },
+      "วังบัว" => {
+        zipcode: ["62120"],
+        latitude: "16.308",
+        longitude: "99.729",
+      },
+      "คลองสมบูรณ์" => {
+        zipcode: ["62120"],
+        latitude: "16.25",
+        longitude: "99.543",
+      },
+    },
+    "คลองลาน" => {
+      "คลองน้ำไหล" => {
+        zipcode: ["62180"],
+        latitude: "16.157",
+        longitude: "99.144",
+      },
+      "โป่งน้ำร้อน" => {
+        zipcode: ["62180"],
+        latitude: "16.389",
+        longitude: "99.258",
+      },
+      "คลองลานพัฒนา" => {
+        zipcode: ["62180"],
+        latitude: "16.096",
+        longitude: "99.252",
+      },
+      "สักงาม" => {
+        zipcode: ["62180"],
+        latitude: "16.324",
+        longitude: "99.348",
+      },
+    },
+    "ทรายทองวัฒนา" => {
+      "ทุ่งทราย" => {
+        zipcode: ["62190"],
+        latitude: "16.305",
+        longitude: "99.862",
+      },
+      "ทุ่งทอง" => {
+        zipcode: ["62190"],
+        latitude: "16.341",
+        longitude: "99.899",
+      },
+      "ถาวรวัฒนา" => {
+        zipcode: ["62190"],
+        latitude: "16.287",
+        longitude: "99.915",
+      },
+    },
+    "ไทรงาม" => {
+      "ไทรงาม" => {
+        zipcode: ["62150"],
+        latitude: "16.487",
+        longitude: "99.897",
+      },
+      "หนองคล้า" => {
+        zipcode: ["62150"],
+        latitude: "16.452",
+        longitude: "99.827",
+      },
+      "หนองทอง" => {
+        zipcode: ["62150"],
+        latitude: "16.417",
+        longitude: "99.756",
+      },
+      "หนองไม้กอง" => {
+        zipcode: ["62150"],
+        latitude: "16.464",
+        longitude: "99.973",
+      },
+      "มหาชัย" => {
+        zipcode: ["62150"],
+        latitude: "16.507",
+        longitude: "99.798",
+      },
+      "พานทอง" => {
+        zipcode: ["62150"],
+        latitude: "16.384",
+        longitude: "99.833",
+      },
+      "หนองแม่แตง" => {
+        zipcode: ["62150"],
+        latitude: "16.399",
+        longitude: "99.909",
+      },
+    },
+    "บึงสามัคคี" => {
+      "บึงสามัคคี" => {
+        zipcode: ["62210"],
+        latitude: "16.285",
+        longitude: "99.985",
+      },
+      "วังชะโอน" => {
+        zipcode: ["62210"],
+        latitude: "16.233",
+        longitude: "99.926",
+      },
+      "ระหาน" => {
+        zipcode: ["62210"],
+        latitude: "16.158",
+        longitude: "99.941",
+      },
+      "เทพนิมิต" => {
+        zipcode: ["62210"],
+        latitude: "16.182",
+        longitude: "99.914",
+      },
+    },
+    "ปางศิลาทอง" => {
+      "โพธิ์ทอง" => {
+        zipcode: ["62120"],
+        latitude: "16.11",
+        longitude: "99.527",
+      },
+      "หินดาต" => {
+        zipcode: ["62120"],
+        latitude: "16.052",
+        longitude: "99.426",
+      },
+      "ปางตาไว" => {
+        zipcode: ["62120"],
+        latitude: "16.017",
+        longitude: "99.164",
+      },
+    },
+    "พรานกระต่าย" => {
+      "พรานกระต่าย" => {
+        zipcode: ["62110"],
+        latitude: "16.657",
+        longitude: "99.538",
+      },
+      "หนองหัววัว" => {
+        zipcode: ["62110"],
+        latitude: "16.748",
+        longitude: "99.579",
+      },
+      "ท่าไม้" => {
+        zipcode: ["62110"],
+        latitude: "16.679",
+        longitude: "99.434",
+      },
+      "วังควง" => {
+        zipcode: ["62110"],
+        latitude: "16.779",
+        longitude: "99.398",
+      },
+      "วังตะแบก" => {
+        zipcode: ["62110"],
+        latitude: "16.712",
+        longitude: "99.666",
+      },
+      "เขาคีริส" => {
+        zipcode: ["62110"],
+        latitude: "16.588",
+        longitude: "99.683",
+      },
+      "คุยบ้านโอง" => {
+        zipcode: ["62110"],
+        latitude: "16.659",
+        longitude: "99.667",
+      },
+      "คลองพิไกร" => {
+        zipcode: ["62110"],
+        latitude: "16.666",
+        longitude: "99.742",
+      },
+      "ถ้ำกระต่ายทอง" => {
+        zipcode: ["62110"],
+        latitude: "16.729",
+        longitude: "99.541",
+      },
+      "ห้วยยั้ง" => {
+        zipcode: ["62110"],
+        latitude: "16.824",
+        longitude: "99.559",
+      },
+    },
+    "ลานกระบือ" => {
+      "ลานกระบือ" => {
+        zipcode: ["62170"],
+        latitude: "16.625",
+        longitude: "99.861",
+      },
+      "ช่องลม" => {
+        zipcode: ["62170"],
+        latitude: "16.568",
+        longitude: "99.913",
+      },
+      "หนองหลวง" => {
+        zipcode: ["62170"],
+        latitude: "16.64",
+        longitude: "99.78",
+      },
+      "โนนพลวง" => {
+        zipcode: ["62170"],
+        latitude: "16.56",
+        longitude: "99.857",
+      },
+      "ประชาสุขสันต์" => {
+        zipcode: ["62170"],
+        latitude: "16.521",
+        longitude: "99.974",
+      },
+      "บึงทับแรต" => {
+        zipcode: ["62170"],
+        latitude: "16.689",
+        longitude: "99.855",
+      },
+      "จันทิมา" => {
+        zipcode: ["62170"],
+        latitude: "16.57",
+        longitude: "99.791",
+      },
+    },
+  },
+  "ขอนแก่น" => {
+    "เมืองขอนแก่น" => {
+      "ในเมือง" => {
+        zipcode: ["40000", "40002"],
+        latitude: "16.438",
+        longitude: "102.837",
+      },
+      "สำราญ" => {
+        zipcode: ["40000"],
+        latitude: "16.537",
+        longitude: "102.837",
+      },
+      "โคกสี" => {
+        zipcode: ["40000"],
+        latitude: "16.481",
+        longitude: "102.985",
+      },
+      "ท่าพระ" => {
+        zipcode: ["40260"],
+        latitude: "16.314",
+        longitude: "102.813",
+      },
+      "บ้านทุ่ม" => {
+        zipcode: ["40000"],
+        latitude: "16.459",
+        longitude: "102.701",
+      },
+      "เมืองเก่า" => {
+        zipcode: ["40000"],
+        latitude: "16.385",
+        longitude: "102.809",
+      },
+      "พระลับ" => {
+        zipcode: ["40000"],
+        latitude: "16.401",
+        longitude: "102.885",
+      },
+      "สาวะถี" => {
+        zipcode: ["40000"],
+        latitude: "16.538",
+        longitude: "102.684",
+      },
+      "บ้านหว้า" => {
+        zipcode: ["40000"],
+        latitude: "16.384",
+        longitude: "102.713",
+      },
+      "บ้านค้อ" => {
+        zipcode: ["40000"],
+        latitude: "16.569",
+        longitude: "102.753",
+      },
+      "แดงใหญ่" => {
+        zipcode: ["40000"],
+        latitude: "16.485",
+        longitude: "102.752",
+      },
+      "ดอนช้าง" => {
+        zipcode: ["40000"],
+        latitude: "16.363",
+        longitude: "102.759",
+      },
+      "ดอนหัน" => {
+        zipcode: ["40260"],
+        latitude: "16.334",
+        longitude: "102.869",
+      },
+      "ศิลา" => {
+        zipcode: ["40000"],
+        latitude: "16.49",
+        longitude: "102.857",
+      },
+      "บ้านเป็ด" => {
+        zipcode: ["40000"],
+        latitude: "16.435",
+        longitude: "102.781",
+      },
+      "หนองตูม" => {
+        zipcode: ["40000"],
+        latitude: "16.516",
+        longitude: "102.931",
+      },
+      "บึงเนียม" => {
+        zipcode: ["40000"],
+        latitude: "16.43",
+        longitude: "102.922",
+      },
+      "โนนท่อน" => {
+        zipcode: ["40000"],
+        latitude: "16.595",
+        longitude: "102.837",
+      },
+    },
+    "กระนวน" => {
+      "หนองโก" => {
+        zipcode: ["40170"],
+        latitude: "16.727",
+        longitude: "103.11",
+      },
+      "หนองกุงใหญ่" => {
+        zipcode: ["40170"],
+        latitude: "16.646",
+        longitude: "103.086",
+      },
+      "ห้วยโจด" => {
+        zipcode: ["40170"],
+        latitude: "16.667",
+        longitude: "103.022",
+      },
+      "ห้วยยาง" => {
+        zipcode: ["40170"],
+        latitude: "16.87",
+        longitude: "103.085",
+      },
+      "บ้านฝาง" => {
+        zipcode: ["40170"],
+        latitude: "16.769",
+        longitude: "103.05",
+      },
+      "ดูนสาด" => {
+        zipcode: ["40170"],
+        latitude: "16.81",
+        longitude: "103.149",
+      },
+      "หนองโน" => {
+        zipcode: ["40170"],
+        latitude: "16.722",
+        longitude: "103.03",
+      },
+      "น้ำอ้อม" => {
+        zipcode: ["40170"],
+        latitude: "16.671",
+        longitude: "103.127",
+      },
+      "หัวนาคำ" => {
+        zipcode: ["40170"],
+        latitude: "16.813",
+        longitude: "103.08",
+      },
+    },
+  },
 }
 
 =begin
@@ -1767,17 +3035,17 @@ all_provinces = provinces.size
 all_amphurs = 0
 all_districts = 0
 provinces.each { |province, amphurs|
-  
+
     puts "#{province} (#{amphurs.size} อำเภอ)"
     sum_districts = 0
     all_amphurs += amphurs.size
-    
+
     amphurs.each { |amphur, districts|
-      
+
         sum_districts += districts.size
         all_districts += districts.size
         puts "  อำเภอ : #{amphur} (#{districts.size} ตำบล)"
-        
+
         districts.each { |district, data|
             puts "      ตำบล : #{district} : #{data[:zipcode]} : (#{data[:latitude]}, #{data[:longitude]})"
         }
