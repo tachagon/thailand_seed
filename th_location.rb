@@ -3925,6 +3925,408 @@ def th_location
         },
       },
     },
+    "จันทบุรี" => {
+      "เมืองจันทบุรี" => {
+        "ตลาด" => {
+          zipcode: ["22000"],
+          latitude: "12.591",
+          longitude: "102.087",
+        },
+        "วัดใหม่" => {
+          zipcode: ["22000"],
+          latitude: "12.611",
+          longitude: "102.105",
+        },
+        "คลองนารายณ์" => {
+          zipcode: ["22000"],
+          latitude: "12.574",
+          longitude: "102.166",
+        },
+        "เกาะขวาง" => {
+          zipcode: ["22000"],
+          latitude: "12.562",
+          longitude: "102.09",
+        },
+        "คมบาง" => {
+          zipcode: ["22000"],
+          latitude: "12.542",
+          longitude: "102.169",
+        },
+        "ท่าช้าง" => {
+          zipcode: ["22000"],
+          latitude: "12.644",
+          longitude: "102.098",
+        },
+        "จันทนิมิต" => {
+          zipcode: ["22000"],
+          latitude: "12.61",
+          longitude: "102.123",
+        },
+        "บางกะจะ" => {
+          zipcode: ["22000"],
+          latitude: "12.563",
+          longitude: "102.056",
+        },
+        "แสลง" => {
+          zipcode: ["22000"],
+          latitude: "12.694",
+          longitude: "102.107",
+        },
+        "หนองบัว" => {
+          zipcode: ["22000"],
+          latitude: "12.534",
+          longitude: "102.101",
+        },
+        "พลับพลา" => {
+          zipcode: ["22000"],
+          latitude: "12.605",
+          longitude: "102.172",
+        },
+      },
+      "แก่งหางแมว" => {
+        "แก่งหางแมว" => {
+          zipcode: ["22160"],
+          latitude: "12.982",
+          longitude: "101.929",
+        },
+        "ขุนซ่อง" => {
+          zipcode: ["22160"],
+          latitude: "13.169",
+          longitude: "101.961",
+        },
+        "สามพี่น้อง" => {
+          zipcode: ["22160"],
+          latitude: "12.977",
+          longitude: "101.817",
+        },
+        "พวา" => {
+          zipcode: ["22160"],
+          latitude: "13.105",
+          longitude: "101.791",
+        },
+        "เขาวงกต" => {
+          zipcode: ["22160"],
+          latitude: "12.881",
+          longitude: "101.848",
+        },
+      },
+      "ขลุง" => {
+        "ขลุง" => {
+          zipcode: ["22110"],
+          latitude: "12.452",
+          longitude: "102.218",
+        },
+        "บ่อ" => {
+          zipcode: ["22110"],
+          latitude: "12.412",
+          longitude: "102.279",
+        },
+        "เกวียนหัก" => {
+          zipcode: ["22110"],
+          latitude: "12.468",
+          longitude: "102.2",
+        },
+        "ตะปอน" => {
+          zipcode: ["22110"],
+          latitude: "12.493",
+          longitude: "102.175",
+        },
+        "บางชัน" => {
+          zipcode: ["22110"],
+          latitude: "12.288",
+          longitude: "102.251",
+        },
+        "วันยาว" => {
+          zipcode: ["22110"],
+          latitude: "12.439",
+          longitude: "102.234",
+        },
+        "ซึ้ง" => {
+          zipcode: ["22110"],
+          latitude: "12.487",
+          longitude: "102.288",
+        },
+        "มาบไพ" => {
+          zipcode: ["22110"],
+          latitude: "12.598",
+          longitude: "102.258",
+        },
+        "วังสรรพรส" => {
+          zipcode: ["22110"],
+          latitude: "12.56",
+          longitude: "102.29",
+        },
+        "ตรอกนอง" => {
+          zipcode: ["22110"],
+          latitude: "12.533",
+          longitude: "102.275",
+        },
+        "ตกพรม" => {
+          zipcode: ["22110"],
+          latitude: "12.625",
+          longitude: "102.339",
+        },
+        "บ่อเวฬุ" => {
+          zipcode: ["22150"],
+          latitude: "12.723",
+          longitude: "102.367",
+        },
+      },
+      "เขาคิชฌกูฏ" => {
+        "ชากไทย" => {
+          zipcode: ["22210"],
+          latitude: "12.765",
+          longitude: "102.101",
+        },
+        "พลวง" => {
+          zipcode: ["22210"],
+          latitude: "12.822",
+          longitude: "102.106",
+        },
+        "ตะเคียนทอง" => {
+          zipcode: ["22210"],
+          latitude: "12.903",
+          longitude: "102.132",
+        },
+        "คลองพลู" => {
+          zipcode: ["22210"],
+          latitude: "12.931",
+          longitude: "102.014",
+        },
+        "จันทเขลม" => {
+          zipcode: ["22210"],
+          latitude: "13.071",
+          longitude: "102.09",
+        },
+      },
+      "ท่าใหม่" => {
+        "ท่าใหม่" => {
+          zipcode: ["22120"],
+          latitude: "12.628",
+          longitude: "101.985",
+        },
+        "ยายร้า" => {
+          zipcode: ["22120"],
+          latitude: "12.612",
+          longitude: "102.027",
+        },
+        "สีพยา" => {
+          zipcode: ["22120"],
+          latitude: "12.578",
+          longitude: "102.029",
+        },
+        "บ่อพุ" => {
+          zipcode: ["22120"],
+          latitude: "12.595",
+          longitude: "102.028",
+        },
+        "พลอยแหวน" => {
+          zipcode: ["22120"],
+          latitude: "12.617",
+          longitude: "102.053",
+        },
+        "เขาวัว" => {
+          zipcode: ["22120"],
+          latitude: "12.637",
+          longitude: "102.035",
+        },
+        "เขาบายศรี" => {
+          zipcode: ["22120"],
+          latitude: "12.74",
+          longitude: "102.061",
+        },
+        "สองพี่น้อง" => {
+          zipcode: ["22120"],
+          latitude: "12.672",
+          longitude: "101.973",
+        },
+        "ทุ่งเบญจา" => {
+          zipcode: ["22170"],
+          latitude: "12.814",
+          longitude: "102.014",
+        },
+        "รำพัน" => {
+          zipcode: ["22170"],
+          latitude: "12.669",
+          longitude: "101.914",
+        },
+        "โขมง" => {
+          zipcode: ["22170"],
+          latitude: "12.62",
+          longitude: "101.94",
+        },
+        "ตะกาดเง้า" => {
+          zipcode: ["22120"],
+          latitude: "12.581",
+          longitude: "101.989",
+        },
+        "คลองขุด" => {
+          zipcode: ["22120"],
+          latitude: "12.512",
+          longitude: "101.95",
+        },
+        "เขาแก้ว" => {
+          zipcode: ["22170"],
+          latitude: "12.867",
+          longitude: "101.939",
+        },
+      },
+      "นายายอาม" => {
+        "นายายอาม" => {
+          zipcode: ["22160"],
+          latitude: "12.782",
+          longitude: "101.847",
+        },
+        "วังโตนด" => {
+          zipcode: ["22170"],
+          latitude: "12.701",
+          longitude: "101.933",
+        },
+        "กระแจะ" => {
+          zipcode: ["22170"],
+          latitude: "12.689",
+          longitude: "101.861",
+        },
+        "สนามไชย" => {
+          zipcode: ["22170"],
+          latitude: "12.625",
+          longitude: "101.874",
+        },
+        "ช้างข้าม" => {
+          zipcode: ["22160"],
+          latitude: "12.707",
+          longitude: "101.819",
+        },
+        "วังใหม่" => {
+          zipcode: ["22170"],
+          latitude: "12.764",
+          longitude: "101.904",
+        },
+      },
+      "โป่งน้ำร้อน" => {
+        "ทับไทร" => {
+          zipcode: ["22140"],
+          latitude: "12.95",
+          longitude: "102.247",
+        },
+        "โป่งน้ำร้อน" => {
+          zipcode: ["22140"],
+          latitude: "12.89",
+          longitude: "102.382",
+        },
+        "หนองตาคง" => {
+          zipcode: ["22140"],
+          latitude: "13.067",
+          longitude: "102.381",
+        },
+        "เทพนิมิต" => {
+          zipcode: ["22140"],
+          latitude: "13.044",
+          longitude: "102.453",
+        },
+        "คลองใหญ่" => {
+          zipcode: ["22140"],
+          latitude: "12.873",
+          longitude: "102.476",
+        },
+      },
+      "มะขาม" => {
+        "มะขาม" => {
+          zipcode: ["22150"],
+          latitude: "12.677",
+          longitude: "102.187",
+        },
+        "ท่าหลวง" => {
+          zipcode: ["22150"],
+          latitude: "12.7",
+          longitude: "102.147",
+        },
+        "ปัถวี" => {
+          zipcode: ["22150"],
+          latitude: "12.743",
+          longitude: "102.272",
+        },
+        "วังแซ้ม" => {
+          zipcode: ["22150"],
+          latitude: "12.756",
+          longitude: "102.156",
+        },
+        "ฉมัน" => {
+          zipcode: ["22150"],
+          latitude: "12.817",
+          longitude: "102.224",
+        },
+        "อ่างคีรี" => {
+          zipcode: ["22150"],
+          latitude: "12.644",
+          longitude: "102.226",
+        },
+      },
+      "สอยดาว" => {
+        "ปะตง" => {
+          zipcode: ["22180"],
+          latitude: "13.17",
+          longitude: "102.194",
+        },
+        "ทุ่งขนาน" => {
+          zipcode: ["22180"],
+          latitude: "13.232",
+          longitude: "102.319",
+        },
+        "ทับช้าง" => {
+          zipcode: ["22180"],
+          latitude: "13.265",
+          longitude: "102.161",
+        },
+        "ทรายขาว" => {
+          zipcode: ["22180"],
+          latitude: "13.086",
+          longitude: "102.197",
+        },
+        "สะตอน" => {
+          zipcode: ["22180"],
+          latitude: "13.174",
+          longitude: "102.371",
+        },
+      },
+      "แหลมสิงห์" => {
+        "ปากน้ำแหลมสิงห์" => {
+          zipcode: ["22130"],
+          latitude: "12.452",
+          longitude: "102.122",
+        },
+        "เกาะเปริด" => {
+          zipcode: ["22130"],
+          latitude: "12.424",
+          longitude: "102.109",
+        },
+        "หนองชิ่ม" => {
+          zipcode: ["22130"],
+          latitude: "12.417",
+          longitude: "102.178",
+        },
+        "พลิ้ว" => {
+          zipcode: ["22190"],
+          latitude: "12.516",
+          longitude: "102.161",
+        },
+        "คลองน้ำเค็ม" => {
+          zipcode: ["22190"],
+          latitude: "12.498",
+          longitude: "102.123",
+        },
+        "บางสระเก้า" => {
+          zipcode: ["22190"],
+          latitude: "12.511",
+          longitude: "102.109",
+        },
+        "บางกะไชย" => {
+          zipcode: ["22120"],
+          latitude: "12.463",
+          longitude: "102.023",
+        },
+      },
+    },
   }
 
 end
