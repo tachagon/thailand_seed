@@ -5300,6 +5300,289 @@ def th_location
         },
       },
     },
+    "ชัยนาท" => {
+      "เมืองชัยนาท" => {
+        "ในเมือง" => {
+          zipcode: ["17000"],
+          latitude: "15.181",
+          longitude: "100.127",
+        },
+        "บ้านกล้วย" => {
+          zipcode: ["17000"],
+          latitude: "15.182",
+          longitude: "100.153",
+        },
+        "ท่าชัย" => {
+          zipcode: ["17000"],
+          latitude: "15.163",
+          longitude: "100.113",
+        },
+        "ชัยนาท" => {
+          zipcode: ["17000"],
+          latitude: "15.129",
+          longitude: "100.151",
+        },
+        "เขาท่าพระ" => {
+          zipcode: ["17000"],
+          latitude: "15.218",
+          longitude: "100.134",
+        },
+        "หาดท่าเสา" => {
+          zipcode: ["17000", "17120"],
+          latitude: "15.2",
+          longitude: "100.079",
+        },
+        "ธรรมามูล" => {
+          zipcode: ["17000"],
+          latitude: "15.264",
+          longitude: "100.133",
+        },
+        "เสือโฮก" => {
+          zipcode: ["17000"],
+          latitude: "15.238",
+          longitude: "100.224",
+        },
+        "นางลือ" => {
+          zipcode: ["17000"],
+          latitude: "15.122",
+          longitude: "100.082",
+        },
+      },
+      "เนินขาม" => {
+        "เนินขาม" => {
+          zipcode: ["17130"],
+          latitude: "14.957",
+          longitude: "99.901",
+        },
+        "กะบกเตี้ย" => {
+          zipcode: ["17130"],
+          latitude: "15.036",
+          longitude: "99.816",
+        },
+        "สุขเดือนห้า" => {
+          zipcode: ["17130"],
+          latitude: "14.968",
+          longitude: "99.828",
+        },
+      },
+      "มโนรมย์" => {
+        "คุ้งสำเภา" => {
+          zipcode: ["17110"],
+          latitude: "15.291",
+          longitude: "100.091",
+        },
+        "วัดโคก" => {
+          zipcode: ["17110", "17170"],
+          latitude: "15.326",
+          longitude: "100.107",
+        },
+        "ศิลาดาน" => {
+          zipcode: ["17110"],
+          latitude: "15.354",
+          longitude: "100.122",
+        },
+        "ท่าฉนวน" => {
+          zipcode: ["17110"],
+          latitude: "15.379",
+          longitude: "100.138",
+        },
+        "หางน้ำสาคร" => {
+          zipcode: ["17170"],
+          latitude: "15.292",
+          longitude: "100.146",
+        },
+        "ไร่พัฒนา" => {
+          zipcode: ["17170"],
+          latitude: "15.333",
+          longitude: "100.225",
+        },
+        "อู่ตะเภา" => {
+          zipcode: ["17170"],
+          latitude: "15.274",
+          longitude: "100.219",
+        },
+      },
+      "วัดสิงห์" => {
+        "วัดสิงห์" => {
+          zipcode: ["17120"],
+          latitude: "15.263",
+          longitude: "100.041",
+        },
+        "มะขามเฒ่า" => {
+          zipcode: ["17120"],
+          latitude: "15.227",
+          longitude: "100.04",
+        },
+        "หนองน้อย" => {
+          zipcode: ["17120"],
+          latitude: "15.177",
+          longitude: "100.015",
+        },
+        "หนองบัว" => {
+          zipcode: ["17120"],
+          latitude: "15.283",
+          longitude: "100.013",
+        },
+        "หนองขุ่น" => {
+          zipcode: ["17120"],
+          latitude: "15.235",
+          longitude: "99.97",
+        },
+        "บ่อแร่" => {
+          zipcode: ["17120"],
+          latitude: "15.283",
+          longitude: "99.958",
+        },
+        "วังหมัน" => {
+          zipcode: ["17120"],
+          latitude: "15.171",
+          longitude: "99.916",
+        },
+      },
+      "สรรคบุรี" => {
+        "แพรกศรีราชา" => {
+          zipcode: ["17140"],
+          latitude: "15.062",
+          longitude: "100.107",
+        },
+        "เที่ยงแท้" => {
+          zipcode: ["17140"],
+          latitude: "15.089",
+          longitude: "100.161",
+        },
+        "ห้วยกรด" => {
+          zipcode: ["17140"],
+          latitude: "15.096",
+          longitude: "100.203",
+        },
+        "โพงาม" => {
+          zipcode: ["17140"],
+          latitude: "14.995",
+          longitude: "100.249",
+        },
+        "บางขุด" => {
+          zipcode: ["17140"],
+          latitude: "14.991",
+          longitude: "100.194",
+        },
+        "ดงคอน" => {
+          zipcode: ["17140"],
+          latitude: "14.976",
+          longitude: "100.135",
+        },
+        "ดอนกำ" => {
+          zipcode: ["17140"],
+          latitude: "14.966",
+          longitude: "100.236",
+        },
+        "ห้วยกรดพัฒนา" => {
+          zipcode: ["17140"],
+          latitude: "15.074",
+          longitude: "100.228",
+        },
+      },
+      "สรรพยา" => {
+        "สรรพยา" => {
+          zipcode: ["17150"],
+          latitude: "15.128",
+          longitude: "100.233",
+        },
+        "ตลุก" => {
+          zipcode: ["17150"],
+          latitude: "15.195",
+          longitude: "100.198",
+        },
+        "เขาแก้ว" => {
+          zipcode: ["17150"],
+          latitude: "15.142",
+          longitude: "100.316",
+        },
+        "โพนางดำตก" => {
+          zipcode: ["17150"],
+          latitude: "15.084",
+          longitude: "100.272",
+        },
+        "โพนางดำออก" => {
+          zipcode: ["17150"],
+          latitude: "15.12",
+          longitude: "100.283",
+        },
+        "บางหลวง" => {
+          zipcode: ["17150"],
+          latitude: "15.143",
+          longitude: "100.197",
+        },
+        "หาดอาษา" => {
+          zipcode: ["17150"],
+          latitude: "15.165",
+          longitude: "100.262",
+        },
+      },
+      "หนองมะโมง" => {
+        "หนองมะโมง" => {
+          zipcode: ["17120"],
+          latitude: "15.216",
+          longitude: "99.772",
+        },
+        "วังตะเคียน" => {
+          zipcode: ["17120"],
+          latitude: "15.278",
+          longitude: "99.802",
+        },
+        "สะพานหิน" => {
+          zipcode: ["17120"],
+          latitude: "15.197",
+          longitude: "99.827",
+        },
+        "กุดจอก" => {
+          zipcode: ["17120"],
+          latitude: "15.241",
+          longitude: "99.894",
+        },
+      },
+      "หันคา" => {
+        "หันคา" => {
+          zipcode: ["17130"],
+          latitude: "15.016",
+          longitude: "99.998",
+        },
+        "บ้านเชี่ยน" => {
+          zipcode: ["17130"],
+          latitude: "14.942",
+          longitude: "99.997",
+        },
+        "ไพรนกยูง" => {
+          zipcode: ["17130"],
+          latitude: "15.081",
+          longitude: "99.856",
+        },
+        "หนองแซง" => {
+          zipcode: ["17160"],
+          latitude: "15.107",
+          longitude: "99.973",
+        },
+        "ห้วยงู" => {
+          zipcode: ["17160"],
+          latitude: "15.072",
+          longitude: "100.067",
+        },
+        "วังไก่เถื่อน" => {
+          zipcode: ["17130"],
+          latitude: "15.004",
+          longitude: "100.056",
+        },
+        "เด่นใหญ่" => {
+          zipcode: ["17130"],
+          latitude: "15.017",
+          longitude: "99.93",
+        },
+        "สามง่ามท่าโบสถ์" => {
+          zipcode: ["17160"],
+          latitude: "15.065",
+          longitude: "100.026",
+        },
+      },
+    },
   }
 
 end
