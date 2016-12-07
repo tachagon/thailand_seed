@@ -6237,6 +6237,374 @@ def th_location
         },
       },
     },
+    "ชุมพร" => {
+      "เมืองชุมพร" => {
+        "ท่าตะเภา" => {
+          zipcode: ["86000"],
+          latitude: "10.498",
+          longitude: "99.179",
+        },
+        "ปากน้ำ" => {
+          zipcode: ["86120"],
+          latitude: "10.448",
+          longitude: "99.253",
+        },
+        "ท่ายาง" => {
+          zipcode: ["86000", "86120"],
+          latitude: "10.434",
+          longitude: "99.217",
+        },
+        "บางหมาก" => {
+          zipcode: ["86000"],
+          latitude: "10.449",
+          longitude: "99.185",
+        },
+        "นาทุ่ง" => {
+          zipcode: ["86000"],
+          latitude: "10.5",
+          longitude: "99.196",
+        },
+        "นาชะอัง" => {
+          zipcode: ["86000"],
+          latitude: "10.557",
+          longitude: "99.379",
+        },
+        "ตากแดด" => {
+          zipcode: ["86000", "86190"],
+          latitude: "10.467",
+          longitude: "99.153",
+        },
+        "บางลึก" => {
+          zipcode: ["86000"],
+          latitude: "10.551",
+          longitude: "99.185",
+        },
+        "หาดพันไกร" => {
+          zipcode: ["86000"],
+          latitude: "10.561",
+          longitude: "99.143",
+        },
+        "วังไผ่" => {
+          zipcode: ["86000", "86190"],
+          latitude: "10.525",
+          longitude: "99.123",
+        },
+        "วังใหม่" => {
+          zipcode: ["86190"],
+          latitude: "10.523",
+          longitude: "99.054",
+        },
+        "บ้านนา" => {
+          zipcode: ["86190"],
+          latitude: "10.437",
+          longitude: "98.952",
+        },
+        "ขุนกระทิง" => {
+          zipcode: ["86000", "86190"],
+          latitude: "10.457",
+          longitude: "99.104",
+        },
+        "ทุ่งคา" => {
+          zipcode: ["86100"],
+          latitude: "10.398",
+          longitude: "99.14",
+        },
+        "วิสัยเหนือ" => {
+          zipcode: ["86100"],
+          latitude: "10.367",
+          longitude: "99.09",
+        },
+        "หาดทรายรี" => {
+          zipcode: ["86120"],
+          latitude: "10.459",
+          longitude: "99.403",
+        },
+        "ถ้ำสิงห์" => {
+          zipcode: ["86100"],
+          latitude: "10.418",
+          longitude: "99.058",
+        },
+      },
+      "ท่าแซะ" => {
+        "ท่าแซะ" => {
+          zipcode: ["86140"],
+          latitude: "10.663",
+          longitude: "99.166",
+        },
+        "คุริง" => {
+          zipcode: ["86140"],
+          latitude: "10.744",
+          longitude: "99.118",
+        },
+        "สลุย" => {
+          zipcode: ["86140"],
+          latitude: "10.835",
+          longitude: "99.233",
+        },
+        "นากระตาม" => {
+          zipcode: ["86140"],
+          latitude: "10.606",
+          longitude: "99.184",
+        },
+        "รับร่อ" => {
+          zipcode: ["86140", "86190"],
+          latitude: "10.768",
+          longitude: "99.011",
+        },
+        "ท่าข้าม" => {
+          zipcode: ["86140"],
+          latitude: "10.66",
+          longitude: "99.105",
+        },
+        "หงษ์เจริญ" => {
+          zipcode: ["86140"],
+          latitude: "10.808",
+          longitude: "99.134",
+        },
+        "หินแก้ว" => {
+          zipcode: ["86190"],
+          latitude: "10.622",
+          longitude: "98.992",
+        },
+        "ทรัพย์อนันต์" => {
+          zipcode: ["86140"],
+          latitude: "10.713",
+          longitude: "99.202",
+        },
+        "สองพี่น้อง" => {
+          zipcode: ["86140"],
+          latitude: "10.949",
+          longitude: "99.189",
+        },
+      },
+      "ทุ่งตะโก" => {
+        "ปากตะโก" => {
+          zipcode: ["86220"],
+          latitude: "10.132",
+          longitude: "99.163",
+        },
+        "ทุ่งตะไคร" => {
+          zipcode: ["86220"],
+          latitude: "10.131",
+          longitude: "99.097",
+        },
+        "ตะโก" => {
+          zipcode: ["86220"],
+          latitude: "10.056",
+          longitude: "98.974",
+        },
+        "ช่องไม้แก้ว" => {
+          zipcode: ["86220"],
+          latitude: "10.117",
+          longitude: "99.024",
+        },
+      },
+      "ปะทิว" => {
+        "บางสน" => {
+          zipcode: ["86160"],
+          latitude: "10.658",
+          longitude: "99.264",
+        },
+        "ทะเลทรัพย์" => {
+          zipcode: ["86160"],
+          latitude: "10.727",
+          longitude: "99.267",
+        },
+        "สะพลี" => {
+          zipcode: ["86230"],
+          latitude: "10.608",
+          longitude: "99.25",
+        },
+        "ชุมโค" => {
+          zipcode: ["86160"],
+          latitude: "10.701",
+          longitude: "99.41",
+        },
+        "ดอนยาง" => {
+          zipcode: ["86210"],
+          latitude: "10.861",
+          longitude: "99.354",
+        },
+        "ปากคลอง" => {
+          zipcode: ["86210"],
+          latitude: "10.782",
+          longitude: "99.53",
+        },
+        "เขาไชยราช" => {
+          zipcode: ["86210"],
+          latitude: "10.939",
+          longitude: "99.349",
+        },
+      },
+      "พะโต๊ะ" => {
+        "พะโต๊ะ" => {
+          zipcode: ["86180"],
+          latitude: "9.816",
+          longitude: "98.8",
+        },
+        "ปากทรง" => {
+          zipcode: ["86180"],
+          latitude: "9.741",
+          longitude: "98.703",
+        },
+        "ปังหวาน" => {
+          zipcode: ["86180"],
+          latitude: "9.951",
+          longitude: "98.866",
+        },
+        "พระรักษ์" => {
+          zipcode: ["86180"],
+          latitude: "9.852",
+          longitude: "98.923",
+        },
+      },
+      "ละแม" => {
+        "ละแม" => {
+          zipcode: ["86170"],
+          latitude: "9.752",
+          longitude: "98.945",
+        },
+        "ทุ่งหลวง" => {
+          zipcode: ["86170"],
+          latitude: "9.8",
+          longitude: "99.065",
+        },
+        "สวนแตง" => {
+          zipcode: ["86170"],
+          latitude: "9.723",
+          longitude: "99.108",
+        },
+        "ทุ่งคาวัด" => {
+          zipcode: ["86170"],
+          latitude: "9.748",
+          longitude: "99",
+        },
+      },
+      "สวี" => {
+        "นาโพธิ์" => {
+          zipcode: ["86130"],
+          latitude: "10.198",
+          longitude: "99.107",
+        },
+        "สวี" => {
+          zipcode: ["86130"],
+          latitude: "10.247",
+          longitude: "99.081",
+        },
+        "ทุ่งระยะ" => {
+          zipcode: ["86130"],
+          latitude: "10.277",
+          longitude: "98.945",
+        },
+        "ท่าหิน" => {
+          zipcode: ["86130"],
+          latitude: "10.213",
+          longitude: "99.151",
+        },
+        "ปากแพรก" => {
+          zipcode: ["86130"],
+          latitude: "10.291",
+          longitude: "99.148",
+        },
+        "ด่านสวี" => {
+          zipcode: ["86130"],
+          latitude: "10.291",
+          longitude: "99.241",
+        },
+        "ครน" => {
+          zipcode: ["86130"],
+          latitude: "10.311",
+          longitude: "99.063",
+        },
+        "วิสัยใต้" => {
+          zipcode: ["86130"],
+          latitude: "10.36",
+          longitude: "99.04",
+        },
+        "นาสัก" => {
+          zipcode: ["86130"],
+          latitude: "10.177",
+          longitude: "99",
+        },
+        "เขาทะลุ" => {
+          zipcode: ["86130"],
+          latitude: "10.197",
+          longitude: "98.915",
+        },
+        "เขาค่าย" => {
+          zipcode: ["86130"],
+          latitude: "10.104",
+          longitude: "98.891",
+        },
+      },
+      "หลังสวน" => {
+        "หลังสวน" => {
+          zipcode: ["86110"],
+          latitude: "9.95",
+          longitude: "99.09",
+        },
+        "ขันเงิน" => {
+          zipcode: ["86110"],
+          latitude: "9.934",
+          longitude: "99.074",
+        },
+        "ท่ามะพลา" => {
+          zipcode: ["86110"],
+          latitude: "9.929",
+          longitude: "99.045",
+        },
+        "นาขา" => {
+          zipcode: ["86110"],
+          latitude: "10.009",
+          longitude: "99.081",
+        },
+        "นาพญา" => {
+          zipcode: ["86110"],
+          latitude: "9.872",
+          longitude: "99.12",
+        },
+        "บ้านควน" => {
+          zipcode: ["86110"],
+          latitude: "9.85",
+          longitude: "99.028",
+        },
+        "บางมะพร้าว" => {
+          zipcode: ["86110", "86150"],
+          latitude: "9.918",
+          longitude: "99.147",
+        },
+        "บางน้ำจืด" => {
+          zipcode: ["86150"],
+          latitude: "10.051",
+          longitude: "99.188",
+        },
+        "ปากน้ำ" => {
+          zipcode: ["86150"],
+          latitude: "9.955",
+          longitude: "99.151",
+        },
+        "พ้อแดง" => {
+          zipcode: ["86110"],
+          latitude: "9.926",
+          longitude: "99.099",
+        },
+        "แหลมทราย" => {
+          zipcode: ["86110"],
+          latitude: "9.962",
+          longitude: "99.118",
+        },
+        "วังตะกอ" => {
+          zipcode: ["86110"],
+          latitude: "9.986",
+          longitude: "98.984",
+        },
+        "หาดยาย" => {
+          zipcode: ["86110"],
+          latitude: "9.96",
+          longitude: "98.956",
+        },
+      },
+    },
   }
 
 end
